@@ -132,7 +132,7 @@ void loop() {
   lastButtonState2 = reading2;
 
   
-  //data taking part
+  //data taking part site
   if (ledState == 0)
   {
     ra0 = analogRead(A0);
